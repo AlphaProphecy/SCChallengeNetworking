@@ -1,5 +1,5 @@
 # SCChallengeNetworking
-A basic client server text communication
+A basic client server text communication allowing any number of clients to connect to one server
 The default port of the server is 6001
 
 commands are entered by /[command]
